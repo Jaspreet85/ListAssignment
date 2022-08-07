@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_item">Add Item</string>
+    <string name="ok">OK</string>
+    <string name="update_item">Update Item</string>
+    <string name="item">Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="please_add_item">Please Add Item</string>
+
+</resources>
